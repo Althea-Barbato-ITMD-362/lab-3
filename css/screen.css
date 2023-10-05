@@ -208,31 +208,25 @@ label {
 /* ===== STATE STYLES ======= */
 
   
-body {
-  background-color: #333; 
-  font-family: "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 100vh;
-  margin: 0;
-  padding: 0;
+body{
+	background: white;
+	font-family: 'Exo2', 'Poppins', sans-serif;
 }
-h1 {
-  font-size: 2em; 
+h1{
+	justify-content: center;
+	text-align: center;
+	font-size: 1.7em;
+	padding: 1em;
+	font-family: 'Exo2', 'Poppins', sans-serif;
 }
-h1, p, li {
-	 margin-bottom: 20px; 
+#content{
+	align-items: center;
+	justify-content: center;
+	border-radius: 1em;
 }
-
-main {
-  text-align: center;
-  margin-top: 20px; 
-}
-
 form {
   padding: 150px 200px; 
-  background-color: #f5f5f5; 
+  background-color: grey; 
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
   margin-top: 20px; 
@@ -241,35 +235,43 @@ form {
   margin: 0 auto; 
 }
 
-label {
-  display: block;
-  margin-bottom: 15px; 
-  font-weight: bold;
+p{
+	justify-content: center;
+	text-align: center;
+	font-size: 1.4em;
+	padding: 1em;
+	font-family: 'Inter', 'Raleway', Noto Sans;
 }
-
-input[type="email"] {
-  width: 100%;
-  padding: 15px;
-  border: 1px solid #ccc;
-  border-radius: 5px;
+#input-email{
+	justify-content: center;
+	text-align: center;
+	font-family: 'AR One Sans', 'Gabarito', Onest;
+	font-size: 1.3em;
+	padding: 1em;
+	display: flex;
 }
-
-input[type="checkbox"] {
-  margin-right: 10px; 
+#input-age-verification{
+	justify-content: center;
+	text-align: center;
+	font-family: 'AR One Sans', 'Gabarito', Onest;
+	font-size: 1.3em;
+	padding: 1em;
+	display: flex;
 }
-
-input[type="submit"] {
-  background-color: #B2BEB5; 
-  color: #fff; 
-  padding: 45px 50px; 
-  border: none; 
-  border-radius: 5px;
-  font-size: 16px; 
-  cursor: pointer;
-  transition: background-color 0.3s ease; 
-  margin-top: 20px; 
+#input-submit{
+	font-size: 1.3em;
+	justify-content: center;
+	display: flex;
+	padding: 1em;
+	font-family: 'AR One Sans', 'Gabarito', Onest;
 }
-
-input[type="submit"]:hover {
-  background-color: #555; 
+@media screen and(max-height: 620px){
+html{
+	display: flex;
+	margin: 0;
+    position: absolute;
+}
+#input-age-verification {
+	display: flex;
+  }
 }
