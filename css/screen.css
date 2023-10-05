@@ -206,3 +206,7 @@ label {
 
 
 /* ===== STATE STYLES ======= */
+body{
+	background: gray;
+	font-family: sans-serif;
+}
