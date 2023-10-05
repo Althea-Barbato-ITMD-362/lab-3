@@ -210,14 +210,14 @@ label {
   
 body{
 	background: white;
-	font-family: 'Exo2', 'Poppins', sans-serif;
+	font-family: 'Exo2', 'young-serif', sans-serif;
 }
 h1{
 	justify-content: center;
 	text-align: center;
 	font-size: 1.7em;
 	padding: 1em;
-	font-family: 'Exo2', 'Poppins', sans-serif;
+	font-family: 'Exo2', 'young-serif', sans-serif;
 }
 #content{
 	align-items: center;
@@ -240,12 +240,12 @@ p{
 	text-align: center;
 	font-size: 1.4em;
 	padding: 1em;
-	font-family: 'Inter', 'Raleway', Noto Sans;
+	font-family: 'young-serif', 'Raleway', Noto Sans;
 }
 #input-email{
 	justify-content: center;
 	text-align: center;
-	font-family: 'AR One Sans', 'Gabarito', Onest;
+	font-family: 'young-serif', 'Gabarito', Onest;
 	font-size: 1.3em;
 	padding: 1em;
 	display: flex;
