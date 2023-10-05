@@ -211,3 +211,7 @@ body{
 	background: gray;
 	font-family: sans-serif;
 }
+main {
+    text-align: center;
+    margin-top: 20px; 
+  }
