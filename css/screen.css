@@ -277,7 +277,7 @@ p{
 
 input[type=checkbox] {
   background: #666666;
-  padding: 1em;
+  border-radius: 10px;
 }
 
 @media screen and(max-height: 620px){
