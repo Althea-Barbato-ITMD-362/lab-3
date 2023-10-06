@@ -274,6 +274,16 @@ p{
   border-radius: 10px;
 	font-family: 'Young Serif', 'Gabarito', Onest;
 }
+#submit{
+  width: fit-content;
+  padding: .5em;
+  display: block;
+  text-align: center;
+  margin: 2em auto 1em auto;
+  border-radius: 1em;
+  color: #3F3F3F;
+  text-decoration: underline;
+}
 
 input[type=checkbox] {
   background: #666666;
