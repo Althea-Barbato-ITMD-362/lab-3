@@ -267,6 +267,7 @@ p{
 	justify-content: center;
 	display: flex;
 	padding: 1em;
+  border-radius: 1em;
 	font-family: 'AR One Sans', 'Gabarito', Onest;
 }
 @media screen and(max-height: 620px){
