@@ -210,7 +210,7 @@ label {
   
 body{
 	background: white;
-	font-family: 'Exo2', 'young-serif', sans-serif;
+	font-family: 'Exo2', 'Young Serif', sans-serif;
 }
 h1{
 	justify-content: center;
@@ -219,7 +219,7 @@ h1{
   background-color: rgb(126, 124, 130);
 	padding: 1em;
   border-radius: 1em;
-	font-family: 'Exo 2', 'young-serif', sans-serif;
+	font-family: 'Exo 2', 'Young Serif', sans-serif;
 }
 #content{
 	align-items: center;
@@ -242,26 +242,30 @@ p{
 	text-align: center;
 	font-size: 1.4em;
 	padding: 1em;
-	font-family: 'Young Serif', 'Raleway', Noto Sans;
+	font-family: 'Young Serif', 'Martian Mono', Noto Sans;
 }
+
 #input-email{
 	width: fit-content;
   text-align: center;
   margin: auto;
   margin-bottom: 2em;
-	font-family: 'Young Serif', 'Gabarito', Onest;
+  border-radius: 10px;
+	font-family: 'Young Serif', 'Martian Mono', Onest;
 	font-size: 1.3em;
 	padding: 1em;
 	display: flex;
 }
+
 #input-age-verification{
 	justify-content: center;
 	text-align: center;
-	font-family: 'Young Serif', 'Gabarito', Onest;
+	font-family: 'Young Serif', 'Martian Mono', Onest;
 	font-size: 1.3em;
 	padding: 1em;
 	display: flex;
 }
+
 #input-submit{
 	font-size: 1.3em;
 	justify-content: center;
@@ -270,10 +274,12 @@ p{
   border-radius: 1em;
 	font-family: 'Young Serif', 'Gabarito', Onest;
 }
+
 input[type=checkbox] {
   background: #666666;
   padding: 1em;
 }
+
 @media screen and(max-height: 620px){
 html{
 	display: flex;
