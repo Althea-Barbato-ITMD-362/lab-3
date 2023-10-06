@@ -210,7 +210,6 @@ label {
   
 body{
 	background: white;
-	font-family: 'Gill Sans', 'Young Serif', sans-serif;
 }
 h1{
 	justify-content: center;
@@ -286,6 +285,7 @@ html{
 	margin: 0;
     position: absolute;
 }
+
 #input-age-verification {
 	display: flex;
   }
