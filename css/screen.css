@@ -269,6 +269,7 @@ p{
 #input-submit{
 	font-size: 1.3em;
 	justify-content: center;
+	display: flex;
   padding: 0.2em;
   border-radius: 10px;
 	font-family: 'Young Serif', 'Gabarito', Onest;
