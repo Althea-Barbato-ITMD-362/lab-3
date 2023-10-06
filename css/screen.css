@@ -267,6 +267,7 @@ p{
 }
 #age-verification{
   font-family: 'Young Serif', 'Martian Mono', Onest;
+  font-weight:bold;
 }
 
 #input-submit{
