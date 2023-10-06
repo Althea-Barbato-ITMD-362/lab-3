@@ -272,6 +272,7 @@ p{
 }
 input[type=checkbox] {
   background: #666666;
+  padding: 1em;
 }
 @media screen and(max-height: 620px){
 html{
