@@ -243,8 +243,10 @@ p{
 	font-family: 'young-serif', 'Raleway', Noto Sans;
 }
 #input-email{
-	justify-content: center;
-	text-align: center;
+	width: fit-content;
+  text-align: center;
+  margin: auto;
+  margin-bottom: 2em;
 	font-family: 'young-serif', 'Gabarito', Onest;
 	font-size: 1.3em;
 	padding: 1em;
