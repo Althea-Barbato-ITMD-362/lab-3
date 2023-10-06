@@ -219,7 +219,7 @@ h1{
   background-color: rgb(126, 124, 130);
 	padding: 1em;
   border-radius: 1em;
-	font-family: 'Exo2', 'young-serif', sans-serif;
+	font-family: 'Exo 2', 'young-serif', sans-serif;
 }
 #content{
 	align-items: center;
@@ -242,14 +242,14 @@ p{
 	text-align: center;
 	font-size: 1.4em;
 	padding: 1em;
-	font-family: 'young-serif', 'Raleway', Noto Sans;
+	font-family: 'Young Serif', 'Raleway', Noto Sans;
 }
 #input-email{
 	width: fit-content;
   text-align: center;
   margin: auto;
   margin-bottom: 2em;
-	font-family: 'young-serif', 'Gabarito', Onest;
+	font-family: 'Young Serif', 'Gabarito', Onest;
 	font-size: 1.3em;
 	padding: 1em;
 	display: flex;
@@ -257,7 +257,7 @@ p{
 #input-age-verification{
 	justify-content: center;
 	text-align: center;
-	font-family: 'AR One Sans', 'Gabarito', Onest;
+	font-family: 'Young Serif', 'Gabarito', Onest;
 	font-size: 1.3em;
 	padding: 1em;
 	display: flex;
@@ -268,7 +268,7 @@ p{
 	display: flex;
 	padding: 1em;
   border-radius: 1em;
-	font-family: 'AR One Sans', 'Gabarito', Onest;
+	font-family: 'Young Serif', 'Gabarito', Onest;
 }
 @media screen and(max-height: 620px){
 html{
