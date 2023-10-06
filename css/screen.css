@@ -265,13 +265,14 @@ p{
 	padding: 1em;
 	display: flex;
 }
+
 #age-verification{
   font-family: 'Young Serif', 'Martian Mono', Onest;
   font-weight:bold;
 }
 
 #input-submit{
-	font-size: 1.3em;
+	font-size: .5em;
 	justify-content: center;
 	display: flex;
   padding: 0.2em;
