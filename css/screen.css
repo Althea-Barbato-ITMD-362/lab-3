@@ -218,6 +218,7 @@ h1{
 	font-size: 1.7em;
   background-color: rgb(126, 124, 130);
 	padding: 1em;
+  border-radius: 1em;
 	font-family: 'Exo2', 'young-serif', sans-serif;
 }
 #content{
