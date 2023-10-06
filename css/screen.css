@@ -283,6 +283,9 @@ p{
   margin: 2em auto 1em auto;
   border-radius: 1em;
 }
+#email{
+  border-radius: 1em;
+}
 
 input[type=checkbox] {
   background: #666666;
