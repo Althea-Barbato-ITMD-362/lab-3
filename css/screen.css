@@ -226,9 +226,9 @@ h1{
 }
 form {
   padding: 150px 200px; 
-  background-color: grey; 
+  background-color: rgb(220, 220, 220); 
   border-radius: 10px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.412);
   margin-top: 20px; 
   width: auto; 
   max-width: 750px; 
