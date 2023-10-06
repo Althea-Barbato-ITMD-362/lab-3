@@ -270,6 +270,9 @@ p{
   border-radius: 1em;
 	font-family: 'Young Serif', 'Gabarito', Onest;
 }
+input[type=checkbox] {
+  background: #666666;
+}
 @media screen and(max-height: 620px){
 html{
 	display: flex;
