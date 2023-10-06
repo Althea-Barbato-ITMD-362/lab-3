@@ -280,12 +280,12 @@ input[type=checkbox] {
   border-radius: 10px;
 }
 
-@media screen and(max-height: 620px){
-html{
-	display: flex;
-	margin: 0;
-    position: absolute;
-}
+@media screen and (min-width: 768px) {
+  #content{
+    width: 60%;
+    margin: auto;
+
+  }
 #input-age-verification {
 	display: flex;
   }
